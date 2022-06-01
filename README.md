@@ -1,1 +1,1 @@
-# binance-portfolio-dashboard
+# Binance Portfolio Dashboard
